@@ -1,18 +1,12 @@
 {
-    "title": "Asset Metadata",
-    "type": "object",
-    "properties": {
-        "name": {
-            "type": "string",
-            "description": "Identifies the asset to which this NFT represents"
-        },
-        "description": {
-            "type": "string",
-            "description": "Describes the asset to which this NFT represents"
-        },
-        "image": {
-            "type": "string",
-            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
-        }
-    }
-}
+    "description": "Obtain a key to join the Slinged Deposit Pool whitelist.", 
+    "external_url": "https://slinged.xyz", 
+    "image": "https://github.com/Slinged/slinged-key/blob/main/slinged-key.png", 
+    "name": "Slinged",
+    "attributes": [ 
+        {
+            "trait_type": "Unlocks", 
+            "value": "whitelist"
+        } 
+     ]
+  }
