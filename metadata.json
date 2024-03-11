@@ -1,7 +1,7 @@
 {
     "description": "Obtain a key to join the Slinged Deposit Pool whitelist.", 
     "external_url": "https://slinged.xyz", 
-    "image": "https://github.com/Slinged/slinged-key/blob/main/slinged-key.png", 
+    "image": "https://raw.githubusercontent.com/Slinged/slinged-key/main/slinged-key.png", 
     "name": "Slinged",
     "attributes": [ 
         {
